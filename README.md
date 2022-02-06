@@ -1,6 +1,6 @@
 # <b>Hi, I'm Adrian</b>
 <br>
-<p>I'm a frontend developer at Fitness24Seven <img width="25" alt="fitness24Seven" src="https://se.fitness24seven.com/media/gyjbnwa0/logo-navy.svg" /> based in Sweden with a combined passion for code and UX-design.</p> <img alt="picture of Adrian Petersson src="./Heroimage.png" />
+<p>I'm a frontend developer at Fitness24Seven <img width="25" alt="fitness24Seven" src="https://se.fitness24seven.com/media/gyjbnwa0/logo-navy.svg" /> based in Sweden with a combined passion for code and UX-design.</p> <img width="100" alt="picture of Adrian Petersson" src="https://se.fitness24seven.com/media/gyjbnwa0/logo-navy.svg" />
 
 ## 👨🏻‍💻 &nbsp;What i work with ##
 <p>
