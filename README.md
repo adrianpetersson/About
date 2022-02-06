@@ -1,6 +1,6 @@
 # <b>Hi, I'm Adrian</b>
 <br>
-<p>I'm a frontend developer at Fitness24Seven based in Sweden with a combined passion for code and UX-design.</p>
+<p>I'm a frontend developer at Fitness24Seven <img alt="fitness24Seven" src="https://se.fitness24seven.com/media/gyjbnwa0/logo-navy.svg" /> based in Sweden with a combined passion for code and UX-design.</p>
 
 ## 👨🏻‍💻 &nbsp;What i work with ##
 <p>
